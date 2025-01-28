@@ -160,3 +160,7 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+#btn_sortear:disabled{
+    background-color: gray;
+}
