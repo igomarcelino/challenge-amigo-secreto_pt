@@ -95,5 +95,3 @@ Bem-vindo ao **Amigo Secreto**, uma aplicação simples e divertida para organiz
 ### 🎉 Divirta-se com o Amigo Secreto! 🎉
 
 --- 
-
-Esse `README.md` apresenta uma visão clara do projeto com explicações, imagens e exemplos de uso para facilitar a compreensão de qualquer usuário.
